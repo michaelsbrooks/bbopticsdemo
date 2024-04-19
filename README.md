@@ -1,1 +1,1 @@
-This is for the purpose for a demo for an EDR solution for testing# bbopticsdemo
+This is for the purpose for a demo for a BlackBerry EDR solution for testing# bbopticsdemo
